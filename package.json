@@ -1,6 +1,6 @@
 {
   "name": "@react-native-khan/components",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Yet another ~~unmaintained~~ project",
   "main": "index.js",
   "repository": {
@@ -14,7 +14,7 @@
   },
   "homepage": "https://https://github.com/react-native-khan/components#readme",
   "scripts": {
-    "upd:rnk:component": "yarn add react-native-vector-icons react-redux redux redux-persist redux-thunk @react-navigation/bottom-tabs @react-navigation/stack"
+    "upd:rnk:component": "yarn add react-redux redux redux-persist redux-thunk @react-navigation/bottom-tabs @react-navigation/stack"
   },
   "keywords": [
     "collection",
@@ -24,7 +24,6 @@
     "@react-native-khan/helpers": "latest",
     "@react-navigation/bottom-tabs": "^6.3.1",
     "@react-navigation/stack": "^6.2.1",
-    "react-native-vector-icons": "^9.1.0",
     "react-redux": "^8.0.1",
     "redux": "^4.2.0",
     "redux-persist": "^6.0.0",
