@@ -1,6 +1,6 @@
 {
   "name": "@react-native-khan/components",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Yet another ~~unmaintained~~ project",
   "main": "index.js",
   "repository": {
@@ -13,18 +13,19 @@
     "url": "https://https://github.com/react-native-khan/components/issues"
   },
   "homepage": "https://https://github.com/react-native-khan/components#readme",
-  "scripts": {},
+  "scripts": {
+    "upd:rnk:component": "yarn add react-native-vector-icons react-redux redux redux-persist redux-thunk"
+  },
   "keywords": [
     "collection",
     "components"
   ],
   "dependencies": {
     "@react-native-khan/helpers": "latest",
-    "@react-navigation/native": "latest",
-    "react-native-vector-icons": "latest",
-    "react-redux": "latest",
-    "redux": "latest",
-    "redux-persist": "latest",
-    "redux-thunk": "latest"
+    "react-native-vector-icons": "^9.1.0",
+    "react-redux": "^8.0.1",
+    "redux": "^4.2.0",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.4.1"
   }
 }
