@@ -1,6 +1,6 @@
 {
   "name": "@react-native-khan/components",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Yet another ~~unmaintained~~ project",
   "main": "index.js",
   "repository": {
@@ -24,6 +24,7 @@
     "@react-native-khan/helpers": "latest",
     "@react-navigation/bottom-tabs": "^6.3.1",
     "@react-navigation/stack": "^6.2.1",
+    "@reduxjs/toolkit": "^1.8.1",
     "react-redux": "^8.0.1",
     "redux": "^4.2.0",
     "redux-persist": "^6.0.0",
