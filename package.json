@@ -1,0 +1,30 @@
+{
+  "name": "@react-native-khan/components",
+  "version": "0.0.1",
+  "description": "Yet another ~~unmaintained~~ project",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/react-native-khan/components.git"
+  },
+  "author": "Farkhan Azmi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://https://github.com/react-native-khan/components/issues"
+  },
+  "homepage": "https://https://github.com/react-native-khan/components#readme",
+  "scripts": {},
+  "keywords": [
+    "collection",
+    "components"
+  ],
+  "dependencies": {
+    "@react-native-khan/helpers": "latest",
+    "@react-navigation/native": "latest",
+    "react-native-vector-icons": "latest",
+    "react-redux": "latest",
+    "redux": "latest",
+    "redux-persist": "latest",
+    "redux-thunk": "latest"
+  }
+}
