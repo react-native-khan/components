@@ -4,7 +4,7 @@ import { StatusBar, Loader } from '../index';
 import {useSelector} from 'react-redux';
 
 export const Layout = props => {
-  const {loading} = useSelector(({global}) => global);
+  const {loading} = useSelector(({dependency}) => dependency);
 
   return (
     <>
